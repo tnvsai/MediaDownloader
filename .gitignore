@@ -1,0 +1,8 @@
+# Runtime binaries
+*.exe
+
+# Downloaded files
+output/
+
+# Logs
+*.log
